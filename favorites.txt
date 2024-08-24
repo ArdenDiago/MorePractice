@@ -1,0 +1,120 @@
+../
+├── 2048
+│   ├── CONTRIBUTING.md
+│   ├── favicon.ico
+│   ├── index.html
+│   ├── js
+│   │   ├── animframe_polyfill.js
+│   │   ├── application.js
+│   │   ├── bind_polyfill.js
+│   │   ├── classlist_polyfill.js
+│   │   ├── game_manager.js
+│   │   ├── grid.js
+│   │   ├── html_actuator.js
+│   │   ├── keyboard_input_manager.js
+│   │   ├── local_storage_manager.js
+│   │   └── tile.js
+│   ├── LICENSE.txt
+│   ├── meta
+│   │   ├── apple-touch-icon.png
+│   │   ├── apple-touch-startup-image-640x1096.png
+│   │   └── apple-touch-startup-image-640x920.png
+│   ├── Rakefile
+│   ├── README.md
+│   └── style
+│       ├── fonts
+│       │   ├── ClearSans-Bold-webfont.eot
+│       │   ├── ClearSans-Bold-webfont.svg
+│       │   ├── ClearSans-Bold-webfont.woff
+│       │   ├── clear-sans.css
+│       │   ├── ClearSans-Light-webfont.eot
+│       │   ├── ClearSans-Light-webfont.svg
+│       │   ├── ClearSans-Light-webfont.woff
+│       │   ├── ClearSans-Regular-webfont.eot
+│       │   ├── ClearSans-Regular-webfont.svg
+│       │   └── ClearSans-Regular-webfont.woff
+│       ├── helpers.scss
+│       ├── main.css
+│       └── main.scss
+├── BranchingExcrcises
+│   └── patronus.txt
+├── colors
+│   ├── colors.txt
+│   └── numbers.txt
+├── Commiting_Basics
+│   └── Shoping
+│       ├── groceries.txt
+│       └── yard.txt
+├── demopage
+│   ├── chicken.txt
+│   ├── dryu.txt
+│   ├── playlist.txt
+│   └── TheFunkRock.txt
+├── gitDemo
+│   ├── index.js
+│   ├── node_modules
+│   │   ├── js-tokens
+│   │   │   ├── CHANGELOG.md
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── loose-envify
+│   │   │   ├── cli.js
+│   │   │   ├── custom.js
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   ├── loose-envify.js
+│   │   │   ├── package.json
+│   │   │   ├── README.md
+│   │   │   └── replace.js
+│   │   └── react
+│   │       ├── cjs
+│   │       │   ├── react.development.js
+│   │       │   ├── react-jsx-dev-runtime.development.js
+│   │       │   ├── react-jsx-dev-runtime.production.min.js
+│   │       │   ├── react-jsx-dev-runtime.profiling.min.js
+│   │       │   ├── react-jsx-runtime.development.js
+│   │       │   ├── react-jsx-runtime.production.min.js
+│   │       │   ├── react-jsx-runtime.profiling.min.js
+│   │       │   ├── react.production.min.js
+│   │       │   ├── react.shared-subset.development.js
+│   │       │   └── react.shared-subset.production.min.js
+│   │       ├── index.js
+│   │       ├── jsx-dev-runtime.js
+│   │       ├── jsx-runtime.js
+│   │       ├── LICENSE
+│   │       ├── package.json
+│   │       ├── react.shared-subset.js
+│   │       ├── README.md
+│   │       └── umd
+│   │           ├── react.development.js
+│   │           ├── react.production.min.js
+│   │           └── react.profiling.min.js
+│   ├── package.json
+│   ├── package-lock.json
+│   └── secrets.txt
+├── gitDiff
+├── GitFiles
+│   └── yesterday-exercise
+│       └── lyrics.txt
+├── GitStash
+│   └── ind.txt
+├── Learning-more-about-github
+│   └── chickens.txt
+├── more_code
+│   └── favorites.txt
+├── PlaylistTake2
+│   ├── podcasts.txt
+│   └── songs.txt
+├── RodtripPlaylist
+│   ├── chicken.txt
+│   ├── dryu.txt
+│   ├── hi.txt
+│   ├── playlist.txt
+│   └── TheFunkRock.txt
+└── UndoingStuff
+    ├── cat.txt
+    └── dog.txt
+
+27 directories, 91 files
