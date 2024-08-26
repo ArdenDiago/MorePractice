@@ -1,1 +1,9 @@
 This is a test file plese dont judge me
+total 616
+drwxr-xr-x. 1 root root    104 Jul  2 05:30 ./
+drwxr-xr-x. 1 root root   4732 Aug 24 09:31 ../
+-rw-r--r--. 1 root root 620105 Jul  2 05:30 moduli
+-rw-r--r--. 1 root root   1916 Jul  2 05:30 ssh_config
+drwxr-xr-x. 1 root root     28 Jul  2 05:30 ssh_config.d/
+-rw-------. 1 root root   3670 Jul  2 05:30 sshd_config
+drwx------. 1 root root     88 Jul  2 05:30 sshd_config.d/
